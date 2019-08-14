@@ -9,3 +9,5 @@
 [Bubble Sort](https://www.youtube.com/embed/RT-hUXUWQ2I?autoplay=1&rel=0)
 
 [Insertion Sort](https://www.youtube.com/embed/kU9M51eKSX8?autoplay=1&rel=0)
+
+[Linear Search](https://www.youtube.com/embed/TwsgCHYmbbA?autoplay=1&rel=0)
