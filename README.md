@@ -13,3 +13,5 @@
 [Linear Search](https://www.youtube.com/embed/TwsgCHYmbbA?autoplay=1&rel=0)
 
 [Binary Search](https://www.youtube.com/embed/T98PIp4omUA?autoplay=1&rel=0)
+
+[Algorithm Summary](https://www.youtube.com/embed/ktWL3nN38ZA?autoplay=1&rel=0)
