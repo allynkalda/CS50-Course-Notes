@@ -12,6 +12,8 @@
 
 [Merge Sort](https://www.youtube.com/embed/yF3hMKmCk1A?autoplay=1&rel=0)
 
+[Recursion](https://www.youtube.com/embed/mz6tAJMVmfM?autoplay=1&rel=0)
+
 [Linear Search](https://www.youtube.com/embed/TwsgCHYmbbA?autoplay=1&rel=0)
 
 [Binary Search](https://www.youtube.com/embed/T98PIp4omUA?autoplay=1&rel=0)
