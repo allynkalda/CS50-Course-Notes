@@ -4,6 +4,8 @@
 
 [Command Line](youtube.com/watch?v=lnYKOnz9ln8)
 
+[Conditional Statement](https://www.youtube.com/watch?v=FqUeHzvci10)
+
 ## week 2: Shorts on Computational Complexity
 
 [Computational Complexity](https://youtu.be/YoZPTyGL2IQ)
