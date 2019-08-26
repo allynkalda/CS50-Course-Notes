@@ -1,5 +1,9 @@
 # CS50 Course Notes
 
+## Introduction
+
+[Command Line](youtube.com/watch?v=lnYKOnz9ln8)
+
 ## Shorts on Computational Complexity
 
 [Computational Complexity](https://youtu.be/YoZPTyGL2IQ)
